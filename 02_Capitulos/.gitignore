@@ -1,0 +1,4 @@
+# Compiling outputs
+
+**/*.log
+*.log

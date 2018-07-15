@@ -1,0 +1,15 @@
+# Compiling outputs
+
+masterthesis.aux
+masterthesis.dvi
+masterthesis.idx
+masterthesis.lof
+masterthesis.log
+masterthesis.lot
+masterthesis.out
+masterthesis.synctex.gz
+masterthesis.toc
+masterthesis.pdf
+
+**/*.log
+*.log
