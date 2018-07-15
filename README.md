@@ -9,4 +9,4 @@ controle de versão, estrutura de diretórios e outros quesitos de organização
 
 **Atualizações**
 - Felipe M. - 20/06/2012
-- Fernando Lima <fernando.lima@gmail.com> - 15/07/2015
+- Fernando Lima <folivelima@gmail.com> - 15/07/2015
